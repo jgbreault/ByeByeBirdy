@@ -1,4 +1,3 @@
-# ByeByeBirdy
-Predicting the aftermath of flight impacts with animals.
+Predicting the Probability of Catastrophe for Flight Impacts with Animals.
 
-Open ByeByeBirdy.ipynb for more.
+Open ByeByeBirdy.ipynb for more information.
