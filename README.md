@@ -1,1 +1,11 @@
-Open ByeByeBirdy.ipynb
+# Predicting the Probability of Catastrophe for Flight Impacts with Animals
+
+Birds have always been an interest of mine. I wanted to make a bird related machine learning model, and predicting bird species by bird call or image is too obvious. Here, I predict the probability of catastrophe for flight impacts with animals, almost all of which are birds. More specifically, I predict the chance of aircraft damage, injury, and death. The models take aircraft type, animal species, animal quantity, impact location, elevation, and speed of impact into account.
+
+Over 650,000 animals were harmed in the making of these models.
+
+Open ByeByeBirdy.ipynb for more. 
+
+![Image](https://raw.githubusercontent.com/jgbreault/ByeByeBirdy/images/speedHist.png)
+![Image](https://raw.githubusercontent.com/jgbreault/ByeByeBirdy/images/impactCollisions.png)
+
