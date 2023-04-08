@@ -7,5 +7,5 @@ Over 650,000 animals were harmed in the making of these models.
 Open ByeByeBirdy.ipynb for more. 
 
 ![Image](https://github.com/jgbreault/ByeByeBirdy/blob/main/images/speedHist.png)
-![Image](https://github.com/jgbreault/ByeByeBirdy/blob/main/images/impactCollisions.png)
+![Image](https://github.com/jgbreault/ByeByeBirdy/blob/main/images/impactPredictions.png)
 
