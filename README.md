@@ -4,7 +4,16 @@ Birds have always been an interest of mine. I wanted to make a bird related mach
 
 Over 650,000 animals were harmed in the making of these models.
 
-Open ByeByeBirdy.ipynb for more. 
+Open ByeByeBirdy.ipynb for more.
+
+Number of Impacts: 64283
+Number of Damaged Aircrafts: 8078
+Number of Injuries: 146
+Number of Fatalities: 5
+
+Runway Impact Rate: 0.27
+Average Animal Qantity: 1.3
+Unknown Animal Species Rate: 0.61
 
 ![Image](https://github.com/jgbreault/ByeByeBirdy/blob/main/images/speedHist.png)
 ![Image](https://github.com/jgbreault/ByeByeBirdy/blob/main/images/heightHist.png)
@@ -12,4 +21,3 @@ Open ByeByeBirdy.ipynb for more.
 ![Image](https://github.com/jgbreault/ByeByeBirdy/blob/main/images/mostCommonAnimals.png)
 ![Image](https://github.com/jgbreault/ByeByeBirdy/blob/main/images/correlationHeatMap.png)
 ![Image](https://github.com/jgbreault/ByeByeBirdy/blob/main/images/impactPredictions.png)
-
